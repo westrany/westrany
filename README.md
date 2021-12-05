@@ -1,3 +1,9 @@
 - 👋 Hiya! I'm Maria 
-- 👀 I absolutly love reading and I currently own too many teas
-- 🌱 I’m currently learning Python and Data Science basic
+- 🏫 I'm a 2nd Year Data Science student at University of Stirling, Scotland
+- 🌱 Currently learning: Dash for data visualisation in Python
+- 🧙‍♂️ “All we have to decide is what to do with the time that is given us.” {J.R.R. Tolkien – The Fellowship of The Ring}
+
+
+
+
+
