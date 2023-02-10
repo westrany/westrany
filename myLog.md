@@ -1,12 +1,12 @@
-  👋 Hiya! I'm Maria 
+  ##👋 Hiya! I'm Maria 
   
-  🏫 I'm a 2nd Year Data Science student at University of Stirling, Scotland
+  ##🏫 I'm a 3rd Year Data Science student at University of Stirling, Scotland
   
-  🌱 *Currently learning:* Dash for data visualisation in Python
+  ##🌱 *Currently learning:* Face Maping for Age Recognition
   
-  🐱‍👓 *Working on:* a Spotify Music Analysis app to further compare music taste amongst me and my friends (because we call think the Blended Playlist app Spotify offers is terrible)
+  ##🐱‍👓 *Working on:* a compilation of NLP and Computer Vision exercises based on one of my university modules
   
-  🧙‍♂️ “All we have to decide is what to do with the time that is given us.” {J.R.R. Tolkien – The Fellowship of The Ring}
+  ##🧙‍♂️ “All we have to decide is what to do with the time that is given us.” {J.R.R. Tolkien – The Fellowship of The Ring}
 
 
 
