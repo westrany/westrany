@@ -1,7 +1,7 @@
 ## Hi there, I'm Maria! 👋
 
 - 🔭 Currently working on a discord bot that sends updates regarding the status of Lord of the Rings Online servers
-- 📚 I wrote a poetry book! It's called [_Poetry Scraps_](https://www.goodreads.com/book/show/200752927-poetry-scraps?ac=1&from_search=true&qid=kz4Yo7jWTl&rank=1) and contains misc poetry for all your emotional needs.
+- 📚 I wrote a poetry book! It's called [_Poetry Scraps_](https://www.goodreads.com/book/show/200752927-poetry-scraps?ac=1&from_search=true&qid=kz4Yo7jWTl&rank=1) and contains misc poetry for all your emotional needs
 - 📫 How to reach me: send me an email to maria.o.fitas@gmail.com or find me on Discord @westrany
 - 🎨 My hobbies list includes: digital painting, wartercolour cozy animals, crochet, violin and guitar
 - 🫖 Fun fact: I am an avid tea drinker and will find the coziest tea shops in wherever country I hop on to
